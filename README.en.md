@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PetrWalla
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me petrII@wallardia.cz
